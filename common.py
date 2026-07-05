@@ -1,1 +1,1 @@
-print ("Hellow word web login")
+print ("Hello word")
